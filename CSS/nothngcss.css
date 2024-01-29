@@ -1,0 +1,34 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background: white;
+}
+
+.wew {
+    background-color: burlywood;
+    text-decoration: overline;
+    padding: 50px;
+    padding-top: 50px;
+    
+}
+.photos2 {
+    overflow: auto;
+    background-color: #f0ede4;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: burlywood;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: #426c35;
+    border-radius: 6px;
+    margin: 2px;
+    object-fit: cover;
+    object-position: top;
+
+
+
+}
+
+
+
